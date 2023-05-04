@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Springs Robot",
+      "detail": "Super Springs Robot",
+      "price": 70,
+      "imageUrl": "images/Springs Robot.png"
+    },
+    {
+      "id": "2",
+      "name": "Sergeant Robot",
+      "detail": "Super Sergeant Robot",
+      "price": 129,
+      "imageUrl": "images/Sergeant Robot.png"
+    },
+    {
+      "id": "3",
+      "name": "River Robot",
+      "detail": "Super River Robot",
+      "price": 91,
+      "imageUrl": "images/River Robot.png"
+    },
+    {
+      "id": "4",
+      "name": "Rex Robot",
+      "detail": "Super Rex Robot",
+      "price": 47,
+      "imageUrl": "images/Rex Robot.png"
+    },
+    {
+      "id": "5",
+      "name": "Portman Robot",
+      "detail": "Super Portman Robot",
+      "price": 95,
+      "imageUrl": "images/Portman Robot.png"
+    },
+    {
+      "id": "6",
+      "name": "Levi Robot",
+      "detail": "Super Levi Robot",
+      "price": 89,
+      "imageUrl": "images/Levi Robot.png"
+    },
+    {
+      "id": "7",
+      "name": "Fred Robot",
+      "detail": "Super Fred Robot",
+      "price": 45,
+      "imageUrl": "images/Fred Robot.png"
+    },
+    {
+      "id": "8",
+      "name": "Elton Robot",
+      "detail": "Super Elton Robot",
+      "price": 12,
+      "imageUrl": "images/Elton Robot.png"
+    },
+    {
+      "id": "9",
+      "name": "Eileen Robot",
+      "detail": "Super Eileen Robot",
+      "price": 39,
+      "imageUrl": "images/Eileen Robot.png"
+    },
+    {
+      "id": "10",
+      "name": "Dolores Robot",
+      "detail": "Super Dolores Robot",
+      "price": 102,
+      "imageUrl": "images/Dolores Robot.png"
+    },
+    {
+      "id": "11",
+      "name": "Dolly Robot",
+      "detail": "Super Dolly Robot",
+      "price": 82,
+      "imageUrl": "images/Dolly Robot.png"
+    },
+    {
+      "id": "12",
+      "name": "Bubbles Robot",
+      "detail": "Super Bubbles Robot",
+      "price": 55,
+      "imageUrl": "images/Bubbles Robot.png"
+    }
+  ]
+}
